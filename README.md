@@ -2,10 +2,17 @@
 Connecting Oracle Integration to Oracle Management Cloud
 
 Integration Components:
+
 OICOMC_SCHEDULER
+
 OICOMC_INT_EXPORT
+
 OICOMC_INST_EXPORT
+
 OICOMC_AUDIT_EXPORT
+
 OICOMC_CON_EXPORT
+
 OICOMC_METRIC_EXPORT
+
 OICOMC_CLEANUP
